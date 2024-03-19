@@ -40,5 +40,6 @@
 19. **Atribuir recursos de trabalho**
 20. **Atribuir recursos materiais**
 21. **O gráfico de Gantt. Ajustando a apresentação**
-22. **Salvando a
+22. **Salvando a linha de base
+23. **Entendendo o Gráfico de Gantt
 
