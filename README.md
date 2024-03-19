@@ -27,12 +27,42 @@
 6. **O que é o MS Project?**
 7. **Instalação do MS Project**
 8. **Criando o projeto Churrasco**
+   - Planejamento do Escopo
+
 9. **Inserindo atividades**
 10. **Criar níveis das atividades**
 11. **Duração das atividades**
+      - O Project permite efetuar cálculos da duração da atividade e o uso dos
+         recursos de acordo com o tipo de tarefa.
+         - Duração fixa: é usada quando não queremos que por inserção de
+            recurso ou modificação de horas a duração da atividade seja
+            modificada.
+         - Unidade fixa: é usada quando não desejamos que o(s) recurso(s)
+            atribuídos às atividades sofram alterações de carga de trabalho.
+         - Trabalho fixo: é usado quando o número de horas de uma atividade
+            não pode alterar-se, mas a inclusão de recursos poderá diminuir a
+            duração.
+
 12. **Sequenciamento das atividades**
+   - Tipos de vínculos: 
+      - Término-a-início (TI)
+      - Início-a-início (II)
+      - Término-a-término (TT)
+      - Início-a-término (IT)
 13. **Antecessores no Project**
 14. **Planejamento de Recursos**
+   - Recursos ajudam a atribuir responsabilidades nas tarefas da agenda.
+   - Configuração de recursos no projeto para controlar trabalho, materiais e equipamentos.
+   - Clareza nas responsabilidades reduz riscos de supervisão inadequada.
+   - Precisão no agendamento e na previsão de conclusão das tarefas.
+   - Monitoramento de recursos com carga excessiva ou insuficiente.
+   - Controle de tempo e custos associados aos recursos.
+
+   - Recursos são cruciais para a conclusão das tarefas do projeto.
+      - Existem dois tipos: materiais e de trabalho.
+         - Recursos de trabalho incluem equipamentos e pessoas, que consomem tempo para completar tarefas.
+         - Recursos materiais são suprimentos e itens de consumo usados no projeto.
+         
 15. **Montagem da Equipe e estimativa de preços**
 16. **Recursos de Trabalho e Materiais**
 17. **Uso de recursos**
